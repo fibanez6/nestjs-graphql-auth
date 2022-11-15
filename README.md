@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="./logos/nestjs-logo.svg" width="100" alt="Nest Logo"/></a>
-  <a href="https://reactjs.org/" target="blank"><img src="./logos/react-logo.png" width="100" alt="React logo"/></a>
+  <a href="https://nodejs.org/en/" target="blank"><img src="./logos/node-logo.webp" width="100" alt="Nodejs logo"/></a>
   <a href="https://graphql.org/" target="blank"><img src="./logos/graphql-logo.png" width="100" alt="GraphQl logo"/></a>
   <a href="https://www.passportjs.org/packages/passport-npm/" target="blank"><img src="./logos/passport-logo.webp" width="100" alt="Passsport logo"/></a>
 </p>
