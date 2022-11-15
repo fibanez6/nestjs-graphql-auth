@@ -1,6 +1,10 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="./logos/nestjs-logo.svg" width="100" alt="Nest Logo"/></a>
+  <a href="https://reactjs.org/" target="blank"><img src="./logos/react-logo.png" width="100" alt="React logo"/></a>
+  <a href="https://graphql.org/" target="blank"><img src="./logos/graphql-logo.png" width="100" alt="GraphQl logo"/></a>
+  <a href="https://www.passportjs.org/packages/passport-npm/" target="blank"><img src="./logos/passport-logo.webp" width="100" alt="Passsport logo"/></a>
 </p>
+
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
@@ -26,29 +30,6 @@
 
 GraphQl Authentication: JWT, login, and signup
 
-## GraphQL Sandbox
-
-### Signup - Success
-
-![List](./images/signup-success-sandbox.png)
-
-### Signup - Fail
-
-![List](./images/signup-failed-sandbox.png)
-
-### User login
-
-![List](./images/user-login-sandbox.png)
-
-### GetUsers - Authenticated
-
-![List](./images/getUsers-authenticated-sandbox.png)
-
-### GetUsers - unauthenticated
-
-![List](./images/getUsers-unAuthenticated-sandbox.png)
-
-
 ## Stack
 
 * [@nestjs 9.0.0](https://github.com/nestjs/nest)
@@ -59,6 +40,28 @@ GraphQl Authentication: JWT, login, and signup
 * [Passport 9.0.0](https://www.passportjs.org/packages/passport-npm/)
   * JWT
   * bcrypt
+
+## GraphQL Sandbox
+
+### Signup - Success
+
+![List](./screenshots/signup-success-sandbox.png)
+
+### Signup - Fail
+
+![List](./screenshots/signup-failed-sandbox.png)
+
+### User login
+
+![List](./screenshots/user-login-sandbox.png)
+
+### GetUsers - Authenticated
+
+![List](./screenshots/getUsers-authenticated-sandbox.png)
+
+### GetUsers - unauthenticated
+
+![List](./screenshots/getUsers-unAuthenticated-sandbox.png)
 
 ## Routes
 
